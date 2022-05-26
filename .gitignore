@@ -1,0 +1,14 @@
+# prettier
+.prettierignore
+
+# compiled output
+/.parcel-cache
+/dist
+
+# dependencies
+**/node_modules
+
+# other
+/.vscode
+*.fig
+.DS_Store
